@@ -1,0 +1,137 @@
+body{
+    margin: 0;
+    font-family: 'Noto Serif', serif;
+    background-color: F4FCD9;
+
+}
+
+   
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Lobster', cursive;
+    font-size: 90px; /*16px =1 em using em and percent meaning size will be dynamic*/
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color:534340;
+}
+.pro{
+    text-decoration: underline;
+
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+.top-cloud{
+    position:absolute;
+    right:200px;
+    top: 50px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 200px;
+    bottom: 300px;
+
+}
+.top-container
+{
+    background-color: F4FCD9;
+    margin-top: 0px;
+    position:relative;
+    padding-top: 100px;
+    text-align: center;
+}
+
+.profile-pic{
+    width: 250px;;
+    height: 250px;
+}
+
+
+p{
+    font-family: 'Montserrat', sans-serif;
+    display: inline;
+}
+
+
+.middle-container{
+    padding: 20 100 20 100;
+    background-color: C5D8A4;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    text-align: left;
+}
+.profile{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.pic1{
+    float: left;
+    margin-right: 30px;
+}
+
+.pic2{
+    float: right;
+    margin-left: 30px;
+}
+
+.pic3{
+    float:left;
+    margin-right: 30px;
+}
+
+.pic4{
+    float: right;
+    margin-left: 30px;
+}
+.bottom-container{
+    background-color: BB9981;
+    text-align: center;
+    padding: 50px 0 20px;
+
+}
+
+.tools-row{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.contact-me
+{
+    text-align: center;
+    width: 50%;
+    margin: 40px auto 60px ;
+}
+
+.links{
+    word-spacing: 10px;
+}
+a{
+    font-family:'Montserrat', sans-serif; 
+    color:#534340;
+    text-decoration: none;
+}
+a:hover
+{
+    font-weight: bold;
+}
+hr{
+    border: dotted #BB9981 6px ;
+    border-bottom: none;
+    width: 10%;
+    margin: 100px auto;
+
+}
+
+
+
+
+
+
+
+
